@@ -1,0 +1,377 @@
+{
+ "stranky": [
+  {
+   "url": "/propozice-esstables2-next/",
+   "nazev": "Domů",
+   "jazyk": "cs"
+  },
+  {
+   "url": "/propozice-esstables2-next/emma-sophia/",
+   "nazev": "Emma Sophia",
+   "jazyk": "cs"
+  },
+  {
+   "url": "/propozice-esstables2-next/sezona-2026/",
+   "nazev": "Sezóna 2026",
+   "jazyk": "cs"
+  },
+  {
+   "url": "/propozice-esstables2-next/sezona-2025/",
+   "nazev": "Sezóna 2025",
+   "jazyk": "cs"
+  },
+  {
+   "url": "/propozice-esstables2-next/sezona-2024/",
+   "nazev": "Sezóna 2024",
+   "jazyk": "cs"
+  },
+  {
+   "url": "/propozice-esstables2-next/sezona-2023/",
+   "nazev": "Sezóna 2023",
+   "jazyk": "cs"
+  },
+  {
+   "url": "/propozice-esstables2-next/galerie/",
+   "nazev": "Galerie",
+   "jazyk": "cs"
+  },
+  {
+   "url": "/propozice-esstables2-next/galerie/staje/",
+   "nazev": "Galerie stájí",
+   "jazyk": "cs"
+  },
+  {
+   "url": "/propozice-esstables2-next/galerie/souteze/",
+   "nazev": "Soutěžní galerie",
+   "jazyk": "cs"
+  },
+  {
+   "url": "/propozice-esstables2-next/kontakt/",
+   "nazev": "Kontakt",
+   "jazyk": "cs"
+  },
+  {
+   "url": "/propozice-esstables2-next/en/",
+   "nazev": "Home",
+   "jazyk": "en"
+  },
+  {
+   "url": "/propozice-esstables2-next/en/emma-sophia/",
+   "nazev": "Emma Sophia",
+   "jazyk": "en"
+  },
+  {
+   "url": "/propozice-esstables2-next/en/season-2026/",
+   "nazev": "Season 2026",
+   "jazyk": "en"
+  },
+  {
+   "url": "/propozice-esstables2-next/en/season-2025/",
+   "nazev": "Season 2025",
+   "jazyk": "en"
+  },
+  {
+   "url": "/propozice-esstables2-next/en/season-2024/",
+   "nazev": "Season 2024",
+   "jazyk": "en"
+  },
+  {
+   "url": "/propozice-esstables2-next/en/season-2023/",
+   "nazev": "Season 2023",
+   "jazyk": "en"
+  },
+  {
+   "url": "/propozice-esstables2-next/en/gallery/",
+   "nazev": "Gallery",
+   "jazyk": "en"
+  },
+  {
+   "url": "/propozice-esstables2-next/en/gallery/stables/",
+   "nazev": "Stable Gallery",
+   "jazyk": "en"
+  },
+  {
+   "url": "/propozice-esstables2-next/en/gallery/competition/",
+   "nazev": "Competition Gallery",
+   "jazyk": "en"
+  },
+  {
+   "url": "/propozice-esstables2-next/en/contact/",
+   "nazev": "Contact",
+   "jazyk": "en"
+  }
+ ],
+ "kontakty": [
+  {
+   "id": "tel:420776265522",
+   "typ": "tel",
+   "hodnota": "",
+   "popisky": [
+    "Aneta Jindřichová, stájová manažerka",
+    "Stable Manager"
+   ],
+   "stranky": [
+    "/propozice-esstables2-next/",
+    "/propozice-esstables2-next/emma-sophia/",
+    "/propozice-esstables2-next/sezona-2026/",
+    "/propozice-esstables2-next/sezona-2025/",
+    "/propozice-esstables2-next/sezona-2024/",
+    "/propozice-esstables2-next/sezona-2023/",
+    "/propozice-esstables2-next/galerie/",
+    "/propozice-esstables2-next/galerie/staje/",
+    "/propozice-esstables2-next/galerie/souteze/",
+    "/propozice-esstables2-next/kontakt/",
+    "/propozice-esstables2-next/en/",
+    "/propozice-esstables2-next/en/emma-sophia/",
+    "/propozice-esstables2-next/en/season-2026/",
+    "/propozice-esstables2-next/en/season-2025/",
+    "/propozice-esstables2-next/en/season-2024/",
+    "/propozice-esstables2-next/en/season-2023/",
+    "/propozice-esstables2-next/en/gallery/",
+    "/propozice-esstables2-next/en/gallery/stables/",
+    "/propozice-esstables2-next/en/gallery/competition/",
+    "/propozice-esstables2-next/en/contact/",
+    "/propozice-esstables2-next/sezona-2027/",
+    "/propozice-esstables2-next/en/season-2027/"
+   ]
+  },
+  {
+   "id": "mail:staje@esstables.com",
+   "typ": "mail",
+   "hodnota": "staje@esstables.com",
+   "popisky": [
+    "Stáje, ustájení",
+    "Stabling enquiries"
+   ],
+   "stranky": [
+    "/propozice-esstables2-next/",
+    "/propozice-esstables2-next/emma-sophia/",
+    "/propozice-esstables2-next/sezona-2026/",
+    "/propozice-esstables2-next/sezona-2025/",
+    "/propozice-esstables2-next/sezona-2024/",
+    "/propozice-esstables2-next/sezona-2023/",
+    "/propozice-esstables2-next/galerie/",
+    "/propozice-esstables2-next/galerie/staje/",
+    "/propozice-esstables2-next/galerie/souteze/",
+    "/propozice-esstables2-next/kontakt/",
+    "/propozice-esstables2-next/en/",
+    "/propozice-esstables2-next/en/emma-sophia/",
+    "/propozice-esstables2-next/en/season-2026/",
+    "/propozice-esstables2-next/en/season-2025/",
+    "/propozice-esstables2-next/en/season-2024/",
+    "/propozice-esstables2-next/en/season-2023/",
+    "/propozice-esstables2-next/en/gallery/",
+    "/propozice-esstables2-next/en/gallery/stables/",
+    "/propozice-esstables2-next/en/gallery/competition/",
+    "/propozice-esstables2-next/en/contact/",
+    "/propozice-esstables2-next/sezona-2027/",
+    "/propozice-esstables2-next/en/season-2027/"
+   ]
+  },
+  {
+   "id": "mail:emmaspanko@esstables.com",
+   "typ": "mail",
+   "hodnota": "emmaspanko@esstables.com",
+   "popisky": [
+    "Emma Sophia Španko: trénink, prodej koní a spolupráce"
+   ],
+   "stranky": [
+    "/propozice-esstables2-next/emma-sophia/",
+    "/propozice-esstables2-next/en/emma-sophia/"
+   ]
+  }
+ ],
+ "sezony": {
+  "2023": {
+   "info": {
+    "cs": "",
+    "en": ""
+   },
+   "radky": [
+    {
+     "cs": "2. místo – CSIOJ Pohár národů, Šamorín (jediná s dvojitým čistým kolem)",
+     "en": "2nd – CSIOJ Nations Cup, Šamorín (only double clear)"
+    },
+    {
+     "cs": "2. místo – Schröder Masterclass Grand Prix, Tubbergen",
+     "en": "2nd – Schröder Masterclass Grand Prix, Tubbergen"
+    },
+    {
+     "cs": "3. místo – CSIOJ Pohár národů, Zduchovice",
+     "en": "3rd – CSIOJ Nations Cup, Zduchovice"
+    },
+    {
+     "cs": "3. místo – CSIOJ 1,35 m, Praha Velká Chuchle",
+     "en": "3rd – CSIOJ 1m35, Praha Velka Chuchle"
+    },
+    {
+     "cs": "4. místo – CSIOJ družstva 1,40 m, Praha Velká Chuchle",
+     "en": "4th – CSIOJ Teams 1m40, Praha Velka Chuchle"
+    },
+    {
+     "cs": "4. místo – CSIO4* 1,40 m, Praha Velká Chuchle",
+     "en": "4th – CSIO4* 1m40, Praha Velka Chuchle"
+    },
+    {
+     "cs": "5. místo – CSI1* Grand Prix 1,30 m, Lier",
+     "en": "5th – CSI1* 1m30 Grand Prix, Lier"
+    },
+    {
+     "cs": "5. místo – CSIY Grand Prix 1,35 m, Šamorín",
+     "en": "5th – CSIY 1m35 Grand Prix, Samorin"
+    },
+    {
+     "cs": "6. místo – CSIO4* 1,35 m, Praha Velká Chuchle",
+     "en": "6th – CSIO4* 1m35, Praha Velka Chuchle"
+    },
+    {
+     "cs": "8. místo – CSI2* Grand Prix 1,45 m, Prague Playoffs",
+     "en": "8th – CSI2* 1m45 Grand Prix, Prague Playoffs"
+    },
+    {
+     "cs": "10. místo – CSI2* 1,45 m, Šamorín",
+     "en": "10th – CSI2* 1m45, Samorin"
+    },
+    {
+     "cs": "Nominována na Mistrovství Evropy juniorů FEI v parkurovém skákání",
+     "en": "Nominated for the FEI Jumping European Championships for Juniors"
+    }
+   ]
+  },
+  "2024": {
+   "info": {
+    "cs": "",
+    "en": ""
+   },
+   "radky": [
+    {
+     "cs": "Vítězka – CSIOY 1,35 m, Zduchovice",
+     "en": "Winner – CSIOY 1m35, Zduchovice"
+    },
+    {
+     "cs": "2. místo – Schröder Masterclass Grand Prix, Tubbergen",
+     "en": "2nd – Schröder Masterclass Grand Prix, Tubbergen"
+    },
+    {
+     "cs": "3. místo – Pohár národů mladých jezdců, Zduchovice (čisté kolo)",
+     "en": "3rd – Young Rider Nations Cup, Zduchovice (jumping clear)"
+    },
+    {
+     "cs": "3. místo – CSI-Y 1,35 m, Valkenswaard",
+     "en": "3rd – CSI-Y 1m35, Valkenswaard"
+    },
+    {
+     "cs": "4. místo – CSI-Y 1,40 m, Valkenswaard",
+     "en": "4th – CSI-Y 1m40, Valkenswaard"
+    },
+    {
+     "cs": "7. místo – CSI3* 1,40 m, Lichtenvoorde",
+     "en": "7th – CSI3* 1m40, Lichtenvoorde"
+    },
+    {
+     "cs": "8. místo – CSIOY Grand Prix 1,45 m, Zduchovice",
+     "en": "8th – CSIOY 1m45 Grand Prix, Zduchovice"
+    },
+    {
+     "cs": "8. místo – Finále CSIYH pro šestileté koně 1,30 m, Oliva",
+     "en": "8th – Final CSIYH 6-year-olds 1m30, Oliva"
+    },
+    {
+     "cs": "10. místo – CSI2* 1,45 m Longines Ranking, Valkenswaard",
+     "en": "10th – CSI2* 1m45 Longines Ranking, Valkenswaard"
+    }
+   ]
+  },
+  "2025": {
+   "info": {
+    "cs": "",
+    "en": ""
+   },
+   "radky": [
+    {
+     "cs": "Vítězka – CSI2* 1,45 m Longines Ranking, Lier",
+     "en": "Winner – CSI2* 1m45 Longines Ranking, Lier"
+    },
+    {
+     "cs": "Vítězka – Schröder Masterclass Grand Prix, Tubbergen",
+     "en": "Winner – Schröder Masterclass Grand Prix, Tubbergen"
+    },
+    {
+     "cs": "Vítězka – CSI2* 1,40 m, Lier",
+     "en": "Winner – CSI2* 1m40, Lier"
+    },
+    {
+     "cs": "2. místo – CSIOY 1,45 m Pohár národů, Zduchovice (čisté kolo)",
+     "en": "2nd – CSIOY 1m45 Nations Cup, Zduchovice (jumping clear)"
+    },
+    {
+     "cs": "6. místo – CSI2* 1,45 m Longines Ranking, Riesenbeck",
+     "en": "6th – CSI2* 1m45 Longines Ranking, Riesenbeck"
+    },
+    {
+     "cs": "8. místo – CSI2* 1,45 m Grand Prix, Prague Playoffs",
+     "en": "8th – CSI2* 1m45 Grand Prix, Prague Playoffs"
+    },
+    {
+     "cs": "8. místo – Finále CSIYH pro šestileté koně 1,30 m, Vejer de la Frontera",
+     "en": "8th – Final CSIYH 6-year-olds 1m30, Vejer de la Frontera"
+    },
+    {
+     "cs": "10. místo – CSI2* 1,45 m Grand Prix, Oliva",
+     "en": "10th – CSI2* 1m45 Grand Prix, Oliva"
+    },
+    {
+     "cs": "Nominována na Mistrovství světa chovu FEI WBFSH pro šestileté koně",
+     "en": "Nominated for the FEI WBFSH World Breeding Championship 6-year-olds"
+    }
+   ]
+  },
+  "2026": {
+   "info": {
+    "cs": "",
+    "en": ""
+   },
+   "radky": [
+    {
+     "cs": "3. místo – CSI2* Grand Prix 1,45 m, Gassin St Tropez",
+     "en": "3rd – CSI2* 1m45 Grand Prix, Gassin St Tropez"
+    },
+    {
+     "cs": "3. místo – CSI2* Grand Prix 1,45 m, Gassin St Tropez",
+     "en": "3rd – CSI2* 1m45 Grand Prix, Gassin St Tropez"
+    },
+    {
+     "cs": "3. místo – CSIO3* EEF Pohár národů 1,50 m, Lier",
+     "en": "3rd – CSIO3* EEF 1m50 Nations Cup, Lier"
+    },
+    {
+     "cs": "3. místo – CSI4* 1,40 m, Arezzo",
+     "en": "3rd – CSI4* 1m40, Arezzo"
+    },
+    {
+     "cs": "4. místo – CSI4* 1,40 m, Arezzo",
+     "en": "4th – CSI4* 1m40, Arezzo"
+    },
+    {
+     "cs": "7. místo – Finále CSIYH pro osmileté koně 1,40 m, Lier",
+     "en": "7th – Final CSIYH 8-year-olds 1m40, Lier"
+    },
+    {
+     "cs": "8. místo – CSI2* 1,45 m na dvě kola, St Tropez",
+     "en": "8th – CSI2* 1m45 Over Two Rounds, St Tropez"
+    },
+    {
+     "cs": "Nominována na Mistrovství Evropy mladých jezdců FEI v parkurovém skákání",
+     "en": "Nominated for the FEI Jumping European Championships for Young Riders"
+    }
+   ]
+  },
+  "2027": {
+   "info": {
+    "cs": "",
+    "en": ""
+   },
+   "radky": []
+  }
+ }
+}

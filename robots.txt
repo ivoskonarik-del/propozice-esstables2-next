@@ -1,0 +1,69 @@
+# Vyhledávače: vše kromě administrace a textových zrcadel (ta jsou pro AI, ve vyhledávání by byla duplicitní).
+User-agent: *
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+Disallow: /propozice-esstables2-next/*.md$
+Disallow: /propozice-esstables2-next/llms-full.txt
+
+# Roboti umělé inteligence: celý obsah včetně zrcadel.
+User-agent: GPTBot
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: MistralAI-User
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+User-agent: CCBot
+Allow: /
+Disallow: /propozice-esstables2-next/admin/
+
+Sitemap: https://ivoskonarik-del.github.io/propozice-esstables2-next/sitemap.xml
